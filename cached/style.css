@@ -29,7 +29,9 @@ body{
     border: 0;
     padding: 0.5rem;
     border-radius: 0.5rem;
-}.GENERATED-USING-TEXT-430094{
+    cursor: pointer;
+}
+.GENERATED-USING-TEXT-430094{
     padding: 1rem;
     color: #000;
 }
